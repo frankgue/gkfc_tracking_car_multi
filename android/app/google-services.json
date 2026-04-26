@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080544096777",
+    "project_id": "gkfc-tracking-car-multi",
+    "storage_bucket": "gkfc-tracking-car-multi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080544096777:android:9071fd4b8fa0a88f553ed8",
+        "android_client_info": {
+          "package_name": "com.example.gkfc_tracking_car_multi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqgu9ElmKoGMR61q1c-WtJgfg9aI-w84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
